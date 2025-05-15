@@ -1,3 +1,5 @@
+print ("Welcome To Time Version 1.0") 
+
 from datetime import datetime
 
 def get_12_hour_time():
